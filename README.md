@@ -45,11 +45,6 @@ To build this project locally:
     *   Wait for Gradle sync to complete.
     *   Run `Run > Run 'app'` or use `./gradlew assembleDebug`.
 
-## � Screenshots
-
-| Login Screen | Timetable | Widget | Dark Mode |
-|:---:|:---:|:---:|:---:|
-| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
 
 ## 🔐 Privacy & Security
 
