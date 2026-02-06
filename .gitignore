@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+app/build/
+*.hprof
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Signing
+*.jks
+local.properties
+
+# Files
+*.har
+captures/
+
+# Others
+Captures/
+*.log
+.DS_Store
+
+# Build Artifacts
+*.apk
+SentralApp_*.apk
+app/release-key.jks
